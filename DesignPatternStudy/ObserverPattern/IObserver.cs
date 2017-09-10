@@ -1,5 +1,5 @@
 ﻿
-namespace Pattern.ObserverPattern.ICollection
+namespace DesignPattern.ObserverPattern.ICollection
 {
     public interface ISubject
     {

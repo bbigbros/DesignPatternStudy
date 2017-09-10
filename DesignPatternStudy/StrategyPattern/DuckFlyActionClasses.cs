@@ -1,7 +1,7 @@
-﻿using Pattern.ICollection;
+﻿using DesignPattern.ICollection;
 using System;
 
-namespace Pattern.CAction.Flys
+namespace DesignPattern.CAction.Flys
 {
     class DuckNonFly : IFlyBehavior
     {

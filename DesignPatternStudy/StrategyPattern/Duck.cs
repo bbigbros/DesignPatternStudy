@@ -1,8 +1,8 @@
 ﻿using System;
-using Pattern.ICollection;
-using Pattern.CAction.Flys;
+using DesignPattern.ICollection;
+using DesignPattern.CAction.Flys;
 
-namespace Pattern
+namespace DesignPattern
 {
     abstract class Duck
     {

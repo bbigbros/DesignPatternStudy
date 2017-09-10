@@ -1,4 +1,4 @@
-﻿using Pattern;
+﻿using DesignPattern;
 using System;
 using DesignPattern.ObserverPattern.CSubject;
 using DesignPatternStudy.ObserverPattern.CCurrentConditionDisplay;

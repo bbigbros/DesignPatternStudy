@@ -1,7 +1,7 @@
-﻿using Pattern.ICollection;
+﻿using DesignPattern.ICollection;
 using System;
 
-namespace Pattern
+namespace DesignPattern
 {
     class DuckMuteQuack : IQuackBehavior
     {

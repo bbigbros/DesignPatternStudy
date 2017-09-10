@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using DesignPattern.ObserverPattern.ICollection;
-using System;
 
 namespace DesignPattern.ObserverPattern.CSubject
 {

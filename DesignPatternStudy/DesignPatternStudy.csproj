@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ObserverPattern\CurrentConditionsDisplay.cs" />
+    <Compile Include="ObserverPattern\IObserver.cs" />
+    <Compile Include="ObserverPattern\WeatherData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StrategyPattern\Duck.cs" />
+    <Compile Include="StrategyPattern\DuckFlyActionClasses.cs" />
+    <Compile Include="StrategyPattern\DuckInterfaces.cs" />
+    <Compile Include="StrategyPattern\DuckQuackActionClasses.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
